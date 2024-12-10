@@ -5,9 +5,9 @@ of the Sissy Things 1.0
 
 app_name - 						Sissy Things
 app_alias - 					sissythings
-app_author_name - 				My Company
-app_author_organizational - 	My Company
-app_author_organization - 		My Company
+app_author_name - 				Acrossnow
+app_author_organizational - 	Acrossnow
+app_author_organization - 		Acrossnow
 app_author_locality - 			My Company
 app_author_state - 				Nairobi City
 app_author_country - 			Kenya
