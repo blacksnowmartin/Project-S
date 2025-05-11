@@ -1,6 +1,3 @@
-# Sissy Crossdresser Game
-
-```python
 import random
 
 class SissyCrossdresserGame:
